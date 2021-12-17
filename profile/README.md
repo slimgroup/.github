@@ -17,7 +17,7 @@
 [Center for Machine Learning for Seismic (ML4Seismic)---a joint initiative between CeGP and SINBAD]:https://slim.gatech.edu/projects/center-for-machine-learning-for-seismic
 [ML4Seismic]:https://slim.gatech.edu/projects/center-for-machine-learning-for-seismic
 
-## About
+# About
 
 The Seismic Laboratory for Imaging and Modelling---[SLIM], is a
 widely recognized world leader in the development of the next
